@@ -12,3 +12,14 @@ lst= input("Enter words: " )
 for words in lst:
     if words != 'secret':
         print(words)
+
+
+'''
+Output:
+
+Enter words: ['cia','secret','mi6','isi','secret']
+cia
+mi6
+isi
+
+'''
